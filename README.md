@@ -10,6 +10,7 @@
 <ul>
 <li> :robot: IoT & automation </li>
 <li> :computer: Python development </li>
+<li> :octopus: Web scraping </li>
 <li> :trophy: Challenges in all kind </li>
 <li> :surfer: Kite surfing </li>
 </ul>
