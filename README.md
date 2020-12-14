@@ -18,6 +18,6 @@
 
 <h3> Online resume </h3>
 
-[![Online resume](https://img.shields.io/static/v1?label=Download&message=EN&color=red&style=flat-square)](https://github.com/arthur073) <br>
-[![Online resume](https://img.shields.io/static/v1?label=Download&message=FR&color=blue&style=flat-square)](https://github.com/arthur073)
+[![Online resume](https://img.shields.io/static/v1?label=Download&message=EN&color=red&style=flat-square)](https://github.com/arthur073/arthur073/raw/main/CV_VERGER_en.pdf) <br>
+[![Online resume](https://img.shields.io/static/v1?label=Download&message=FR&color=blue&style=flat-square)](https://github.com/arthur073/arthur073/raw/main/CV_VERGER_fr.pdf)
 
